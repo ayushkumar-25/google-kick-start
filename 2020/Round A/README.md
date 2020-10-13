@@ -1,3 +1,5 @@
+# Allocation
+
 ## Problem
 
 There are **N** houses for sale. The i-th house costs **Ai** dollars to buy. You have a budget of **B** dollars to spend.
