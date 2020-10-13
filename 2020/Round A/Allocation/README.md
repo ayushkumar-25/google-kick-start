@@ -1,6 +1,6 @@
 # Allocation
 
-## Problem
+## Problem statement
 
 There are **N** houses for sale. The i-th house costs **Ai** dollars to buy. You have a budget of **B** dollars to spend.
 
@@ -29,7 +29,7 @@ Test set 1<br>
 1 ≤ **N** ≤ 100.
 
 Test set 2<br>
-1 ≤ ****N** ≤ 10<sup>5</sup>.
+1 ≤ **N** ≤ 10<sup>5</sup>.
 
 **Sample**
 
