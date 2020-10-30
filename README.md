@@ -3,6 +3,6 @@
 
 - 2020
     - Round A
-        - [Allocation](2020/Round-A/Allocation)
+        1. [Allocation](2020/Round-A/Allocation)
     - Round B
-        - [Bike Tour](2020/Round-B/Bike-Tour)
+        1. [Bike Tour](2020/Round-B/Bike-Tour)
