@@ -60,4 +60,4 @@ In Sample Case #3, you have a budget of 300 dollars. You cannot buy any houses (
 **Note**: Unlike previous editions, in Kick Start 2020, all test sets are visible verdict test sets, meaning you receive instant feedback upon submission.
 
 **My Solution**
-- [Python 3](Allocation.py)
+- [Python 3](solution.py)
