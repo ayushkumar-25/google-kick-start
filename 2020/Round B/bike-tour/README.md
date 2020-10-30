@@ -58,3 +58,6 @@ Case #4: 0
 - In sample case #2, there are no peaks.
 - In sample case #3, the 2nd and 4th checkpoint are peaks.
 - In sample case #4, there are no peaks.
+
+**My Solution**
+- [Python 3](solution.py)
